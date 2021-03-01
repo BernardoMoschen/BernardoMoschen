@@ -13,7 +13,7 @@
 - 🗺️ &nbsp; I love to read and travel in my free time.
 - 🌱 &nbsp; My final career goal is in the field of **artificial intelligence, but I am open to everything**.
 - 💬 &nbsp; Feel totally free to interact with me!
-- 🔗 &nbsp; See more about me on <a href="linktr.ee/BernardoMoschen">Linktree</a>
+- 🔗 &nbsp; See more about me on <a href="www.linktr.ee/BernardoMoschen">Linktree</a>
 
 <h3>🧰 Stack</h3>
 
