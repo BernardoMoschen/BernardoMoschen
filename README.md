@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔍 &nbsp; Seeking to expand my knowledge.
-- 🎓 &nbsp; Studying **Analysis and Systems Development**, scheduled for completion in 2023.
+- 🎓 &nbsp; Studying **Analysis and Systems Development**, scheduled for completion in 2022.
 - 💼 &nbsp; I currently work as an Accounting Assistant and I'm looking for my first opportunity in the technology area.
 - 📚 &nbsp; Focusing on **Python**.
 - 🗺️ &nbsp; I love to read and travel in my free time.
