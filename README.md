@@ -9,7 +9,7 @@
 - 🔍 &nbsp; Seeking to expand my knowledge.
 - 🎓 &nbsp; Studying **Analysis and Systems Development**, scheduled for completion in 2022.
 - 💼 &nbsp; I currently work as an Accounting Assistant and I'm looking for my first opportunity in the technology area.
-- 📚 &nbsp; Focusing on **Python**.
+- 📚 &nbsp; Focusing on **Development**.
 - 🗺️ &nbsp; I love to read and travel in my free time.
 - 🌱 &nbsp; My final career goal is in the field of **artificial intelligence, but I am open to everything**.
 - 💬 &nbsp; Feel totally free to interact with me!
