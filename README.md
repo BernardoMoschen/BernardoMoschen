@@ -12,6 +12,7 @@
   <img align="center" alt="Bernardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bernardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <!--<img align="center" alt="Bernardo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  <img align="right" height="175m" width="175m" alt="git-Rave" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </div>
   
   ##
