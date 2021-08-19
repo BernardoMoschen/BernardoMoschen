@@ -45,23 +45,80 @@
 <!-- Icons area -->
 <p align="center">
   <!-- JS Icon -->
-  <img align="center" alt="Bernardo-JS" height="30" width="40"
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img align="center" alt="Javascript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
+ </a>
   <!-- HTML Icon -->
-  <img align="center" alt="Bernardo-HTML" height="30" width="40"
+ <a href="https://www.w3.org/TR/html5/" title="HTML5">
+  <img align="center" alt="HTML" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
+ </a>
   <!-- CSS Icon -->
-  <img align="center" alt="Bernardo-CSS" height="30" width="40"
+  <img align="center" alt="CSS" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+ 
+   <!-- ReactJs Icon -->
+ <a href="https://reactjs.org/" title="React">
+  <img align="center" alt="React" height="30" width="33"
+       src="https://github.com/get-icon/geticon/raw/master/icons/react.svg">&nbsp;
+ </a>
+   <!-- MaterialUi Icon -->
+ <a href="https://material-ui.com/" title="Material UI">
+  <img align="center"  alt="Material UI" height="30" width="33"
+       src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" >&nbsp;
+ </a>
   <!-- VueJs Icon -->
-  <img align="center" alt="Bernardo-VueJs" height="30" width="33"
+ <a href="https://vuejs.org/" title="Vue.js">
+  <img align="center" alt="VueJs" height="30" width="33"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">&nbsp;
-  <!-- Python Icon -->
-  <img align="center" alt="Bernardo-Python" height="35" width="40"
+   </a>
+ <!-- Python Icon -->
+<!--  <a href="https://www.python.org/" title="Python">
+  <img align="center" alt="Python" height="35" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
+ </a>  -->
+   <!-- Postgres Icon -->
+ <a href="https://www.postgresql.org/" title="PostgreSQL">
+  <img align="center" height="30" width="40"
+       src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL">&nbsp;
+ </a>
   <!-- Git Icon -->
-  <img align="center" alt="Bernardo-Git" height="30" width="40"
+ <a href="https://git-scm.com/" title="Git">
+  <img align="center" alt="Git" height="33" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+ </a>
+  <!-- Npm Icon -->
+ <a href="https://www.npmjs.com/" title="npm">
+  <img align="center"  alt="npm" height="30" width="40"
+       src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" >&nbsp;
+ </a>
+   <!-- Yarn Icon -->
+ <a href="https://yarnpkg.com/" title="Yarn">
+  <img align="center"  alt="Yarn" height="30" width="40"
+       src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" >&nbsp;
+ </a>
+   <!-- Eslint Icon -->
+ <a href="https://eslint.org/" title="ESLint">
+  <img align="center" alt="ESLint" height="30" width="40"
+       src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" >&nbsp;
+ </a>
+  <!-- Jest Icon -->
+ <a href="https://jestjs.io/" title="Jest">
+  <img align="center"  alt="Jest" height="30" width="40"
+       src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" >&nbsp;
+ </a>
+    <!-- Docker Icon -->
+ <a href="https://www.docker.com/" title="docker">
+  <img align="center"  alt="docker" height="30" width="40"
+       src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg">&nbsp;
+ </a>
+   <!-- Visual Studio Code Icon -->
+ <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+  <img align="center"  alt="Visual Studio Code" height="30" width="40"
+       src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" >&nbsp;
+ </a>
+
 </p>
 
 <!-- Cards Area -->
