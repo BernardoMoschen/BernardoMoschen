@@ -33,9 +33,7 @@
 
  <!-- Presentation Text -->
 <h4 align="center"> 
-  I'm a student of  Analysis and Systems Development at Unisinos, based in Porto Alegre/RS - Brazil.
- <br>
-  I currently work as a { developer } at Meta, seeking to explore the world of frontend, design, UI/UX and accessibility.
+  I currently work as a { developer } at Meta based in Porto Alegre/RS - Brazil, seeking to explore the world of frontend and backend, design, UI/UX and accessibility.
  <br>
  👨‍💻
 </h4>
