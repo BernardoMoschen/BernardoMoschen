@@ -26,9 +26,12 @@
  </a>
  
 <!-- Instagram -->
+<!--
   <a href="https://www.instagram.com/Bernardo_Moschen/" target="_blank">
    <img alt="logo Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://twitter.com/bernardo_moschen">
   </a>
+  -->
+  
 </p>
 
  <!-- Presentation Text -->
