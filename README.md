@@ -1,5 +1,5 @@
 <!-- Profile view counter -->
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BernardoMoschen&repo=BernardoMoschen&countColorcountColor)
+<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BernardoMoschen&repo=BernardoMoschen&countColorcountColor) -->
 
 <!-- Avatar Image 
 <img align="right" src=".png" width="260" />
