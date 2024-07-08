@@ -1,20 +1,15 @@
 <!-- Profile view counter -->
 <!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BernardoMoschen&repo=BernardoMoschen&countColorcountColor) -->
 
-<!-- Avatar Image 
+<!-- Avatar Image
 <img align="right" src=".png" width="260" />
 -->
 
-<!-- Title 
- <h1> 
+<!-- Title
+ <h1>
    <a href"https://fontmeme.com/fonts/satisfontory-font/"><img src="https://fontmeme.com/permalink/210701/9be3623530f4c3e28a9db96418971ccb.png" alt="satisfontory-font" border="0">
    </a>
  </h1> -->
-
-<!-- Meme -->
-<div align="center">
-<img alt="frequency tweet" src="https://github.com/BernardoMoschen/BernardoMoschen/assets/76796293/1f7cd7de-3700-4679-a505-794fe764cfb3"  width="50%">
-</div>
 
  <!-- Linkedin -->
 <div align="center">
@@ -113,22 +108,26 @@
   <img align="center"  alt="Visual Studio Code" height="30" width="40"
        src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" >&nbsp;
  </a>
-
 </p>
 
+<!-- Meme -->
+<div align="center">
+<img alt="frequency tweet" src="https://github.com/BernardoMoschen/BernardoMoschen/assets/76796293/1f7cd7de-3700-4679-a505-794fe764cfb3"  width="50%">
+</div>
+
 <!-- Cards Area -->
-<table align="left">
-  <row>
-    <!-- Card -->
+<table align="center">
+  <row display="flex">
     <td>
       <img height='172' src='https://github-readme-stats.vercel.app/api?username=BernardoMoschen&show_icons=true&theme=vision-friendly-dark'>
     </td>
-    <td>
-     <!-- Card -->
+    <td align="center">
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMoschen&layout=compact&theme=vision-friendly-dark'>
     </td>
   </row>
-</table> 
+</table>
 
 <!-- Commit snake -->
+
 ![Snake animation](https://github.com/BernardoMoschen/BernardoMoschen/blob/output/github-contribution-grid-snake.svg)
+
