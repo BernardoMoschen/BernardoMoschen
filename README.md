@@ -4,18 +4,20 @@
 <!-- Avatar Image 
 <img align="right" src=".png" width="260" />
 -->
-<!-- Title -->
-<div align="center">
+
+<!-- Title 
  <h1> 
    <a href"https://fontmeme.com/fonts/satisfontory-font/"><img src="https://fontmeme.com/permalink/210701/9be3623530f4c3e28a9db96418971ccb.png" alt="satisfontory-font" border="0">
    </a>
- </h1>
+ </h1> -->
+
+<!-- Meme -->
+<div align="center">
+<img alt="frequency tweet" src="https://github.com/BernardoMoschen/BernardoMoschen/assets/76796293/1f7cd7de-3700-4679-a505-794fe764cfb3"  width="50%">
 </div>
 
-<!-- External Links -->
-<p align="center">
- 
  <!-- Linkedin -->
+<div align="center">
    <a href="https://www.linkedin.com/in/bernardomoschen/" target="_blank">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardomoschen/">
   </a>
@@ -24,15 +26,7 @@
   <a href = "mailto: bernardomoschen.dev@gmail.com" target="_targe">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
  </a>
- 
-<!-- Instagram -->
-<!--
-  <a href="https://www.instagram.com/Bernardo_Moschen/" target="_blank">
-   <img alt="logo Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://twitter.com/bernardo_moschen">
-  </a>
-  -->
-  
-</p>
+ </div>
 
  <!-- Presentation Text -->
 <h4 align="center"> 
