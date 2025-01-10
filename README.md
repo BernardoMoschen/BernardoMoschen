@@ -127,7 +127,8 @@
   </row>
 </table>
 
-<!-- Commit snake -->
+<!-- Commit snake 
 
 ![Snake animation](https://github.com/BernardoMoschen/BernardoMoschen/blob/output/github-contribution-grid-snake.svg)
 
+-->
