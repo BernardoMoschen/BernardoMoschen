@@ -1,5 +1,10 @@
 <!-- Hero -->
+
+<div style="display: flex; flex-direction: row; gap:2">
 <img src="https://github.com/BernardoMoschen/BernardoMoschen/raw/main/assets/bmos_glitch_hero.gif" alt="Description of image" width="50%" height="50%">
+<img src="https://github.com/BernardoMoschen/BernardoMoschen/raw/main/assets/bmos_ascii.gif" alt="Description of image" width="50%" height="50%">
+</div>
+
 
 ---
 
