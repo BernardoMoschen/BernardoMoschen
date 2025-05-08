@@ -3,7 +3,9 @@
 ## Hello there, I'm Bernardo Moschen
 
 <!-- Contact -->
+
 ### 🌐 Contact
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardomoschen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardomoschen.dev@gmail.com)
 
@@ -106,7 +108,7 @@ hobbies: ['Camping', 'Hiking', 'Reading', 'Gym']
 
 <!-- Stats -->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">&nbsp;Stats
+### <img  align='center'  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">&nbsp;Stats
 
 <table align="center">
   <row display="flex">
