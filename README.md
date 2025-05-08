@@ -61,7 +61,7 @@ hobbies: ['Camping', 'Hiking', 'Reading', 'Gym']
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height='30'>&nbsp; Skills
+### <img align='center' src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height='30'>&nbsp; Skills
 
 <div style="display: flex; flex-direction: column; background: #0d0d0d; padding:20px ">
     <div>
