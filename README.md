@@ -1,26 +1,23 @@
-<div style="text-align: start; padding: 20px; background: radial-gradient(circle, #0d1b2a, #000000); color: #ffffff;">
-  <h2 id="sobre-mim">Hello there,
-  </br>
-   I'm 
-  <span style="font-family: 'Courier New', monospace; color:rgb(255, 76, 22); text-shadow: 0 0 10px #F05032;"> Bernardo Moschen</span>
-</div>
+<!-- Hero -->
+
+## Hello there, I'm
+
+<img src="https://img.shields.io/badge/Bernardo%20%20Moschen-F05032?style=flat-square&logoColor=white&labelColor=0d1b2a&color=ff4c16" width='150' height='30'>
 
 ---
 
-<div style="display: flex; flex-direction:row; gap:12px">
-<!-- Linkedin -->
-   <a href="https://www.linkedin.com/in/bernardomoschen/" target="_blank">
-    <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardomoschen/">
-  </a>
-<!-- Email -->
-  <a href = "mailto: bernardomoschen.dev@gmail.com" target="_targe">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- </div>
+<!-- Contact -->
+
+### 🌐 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardomoschen/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardomoschen.dev@gmail.com)
 
 ---
 
  <!-- Presentation Text -->
+
+### 🧾 About Me
 
 ```yaml
 name: Bernardo A Moschen
@@ -64,10 +61,7 @@ hobbies: ['Camping', 'Hiking', 'Reading', 'Gym']
 
 ---
 
-<div style="display:flex; align-items:center; justify-content:start; justify-items: center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height='30'>
-<p id="habilidades" style="color: rgb(255, 76, 22); text-align: start; text-shadow: 0 0 5px #F05032; padding-left:8px">Skills</p>
-</div>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height='30'>&nbsp; Skills
 
 <div style="display: flex; flex-direction: column; background: #0d0d0d; padding:20px ">
     <div>
@@ -115,10 +109,10 @@ hobbies: ['Camping', 'Hiking', 'Reading', 'Gym']
 
 ---
 
-<div style="display:flex; align-items:center; justify-content:start; justify-items: center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
-<h3 id="habilidades" style="color: rgb(255, 76, 22); text-align: start; text-shadow: 0 0 5px #F05032; padding-left:8px">Stats</h3>
-</div>
+<!-- Stats -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">&nbsp;Stats
+
+
 <table align="center">
   <row display="flex">
     <td>
