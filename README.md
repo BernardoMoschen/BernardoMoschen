@@ -1,5 +1,5 @@
 <!-- Hero -->
-<img src="./assets/bmos_glitch_hero.gif" >
+<img src="https://github.com/BernardoMoschen/BernardoMoschen/raw/main/assets/bmos_glitch_hero.gif" alt="Description of image">
 
 ---
 
