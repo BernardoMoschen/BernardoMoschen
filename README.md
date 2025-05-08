@@ -1,121 +1,124 @@
-<!-- Profile view counter -->
-<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BernardoMoschen&repo=BernardoMoschen&countColorcountColor) -->
+<div style="text-align: start; padding: 20px; background: radial-gradient(circle, #0d1b2a, #000000); color: #ffffff;">
+  <h2 id="sobre-mim">Hello there,
+  </br>
+   I'm 
+  <span style="font-family: 'Courier New', monospace; color:rgb(255, 76, 22); text-shadow: 0 0 10px #F05032;"> Bernardo Moschen</span>
+</div>
 
-<!-- Avatar Image
-<img align="right" src=".png" width="260" />
--->
+---
 
-<!-- Title
- <h1>
-   <a href"https://fontmeme.com/fonts/satisfontory-font/"><img src="https://fontmeme.com/permalink/210701/9be3623530f4c3e28a9db96418971ccb.png" alt="satisfontory-font" border="0">
-   </a>
- </h1> -->
-
- <!-- Linkedin -->
-<div align="center">
+<div style="display: flex; flex-direction:row; gap:12px">
+<!-- Linkedin -->
    <a href="https://www.linkedin.com/in/bernardomoschen/" target="_blank">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardomoschen/">
   </a>
-
 <!-- Email -->
   <a href = "mailto: bernardomoschen.dev@gmail.com" target="_targe">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
- </a>
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
  </div>
 
+---
+
  <!-- Presentation Text -->
-<h4 align="center"> 
-  I currently work as a { developer } at Meta based in Porto Alegre/RS - Brazil, seeking to explore the world of frontend and backend, design, UI/UX and accessibility.
- <br>
- 👨‍💻
-</h4>
 
-<br>
+```yaml
+name: Bernardo A Moschen
+located_in: Porto Alegre, Brazil
+job: Fullstack Developer
+education:
+  [
+    'Technologist - Analysis and System Development',
+    'Postgraduate in Fullstack Development',
+  ]
+past_experiences:
+  - [
+      'Fullstack Developer',
+      'Fulltime',
+      'Paradise Mobile',
+      'Bermudas/remote',
+      '03/2023 - Current',
+    ]
+  - [
+      'Fullstack Developer',
+      'Fulltime',
+      'Grupo Tiradentes',
+      'Brazil',
+      '12/2022 - 03/2023',
+    ]
+  - [
+      'Fullstack Developer',
+      'Fulltime',
+      'ArcelorMittal Mines',
+      'Canada/remote',
+      '09/2021 - 12/2022',
+    ]
+  - ['Fullstack Developer', 'Intern', 'Meta IT', 'Brazil', '05/2021 - 09/2021']
+currently_learning: ['Docker', 'NestJs', 'Patterns']
+will_learn: ['AWS', 'Cloud']
+hobbies: ['Camping', 'Hiking', 'Reading', 'Gym']
+```
 
-<!-- Icons area -->
-<p align="center">
-  <!-- JS Icon -->
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-  <img align="center" alt="Javascript" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
- </a>
-  <!-- HTML Icon -->
- <a href="https://www.w3.org/TR/html5/" title="HTML5">
-  <img align="center" alt="HTML" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
- </a>
-  <!-- CSS Icon -->
-  <img align="center" alt="CSS" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
- 
-   <!-- ReactJs Icon -->
- <a href="https://reactjs.org/" title="React">
-  <img align="center" alt="React" height="30" width="33"
-       src="https://github.com/get-icon/geticon/raw/master/icons/react.svg">&nbsp;
- </a>
-   <!-- MaterialUi Icon -->
- <a href="https://material-ui.com/" title="Material UI">
-  <img align="center"  alt="Material UI" height="30" width="33"
-       src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" >&nbsp;
- </a>
-  <!-- VueJs Icon -->
- <a href="https://vuejs.org/" title="Vue.js">
-  <img align="center" alt="VueJs" height="30" width="33"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">&nbsp;
-   </a>
- <!-- Python Icon -->
-<!--  <a href="https://www.python.org/" title="Python">
-  <img align="center" alt="Python" height="35" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
- </a>  -->
-   <!-- Postgres Icon -->
- <a href="https://www.postgresql.org/" title="PostgreSQL">
-  <img align="center" height="30" width="40"
-       src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL">&nbsp;
- </a>
-  <!-- Git Icon -->
- <a href="https://git-scm.com/" title="Git">
-  <img align="center" alt="Git" height="33" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
- </a>
-  <!-- Npm Icon -->
- <a href="https://www.npmjs.com/" title="npm">
-  <img align="center"  alt="npm" height="30" width="40"
-       src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" >&nbsp;
- </a>
-   <!-- Yarn Icon -->
- <a href="https://yarnpkg.com/" title="Yarn">
-  <img align="center"  alt="Yarn" height="30" width="40"
-       src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" >&nbsp;
- </a>
-   <!-- Eslint Icon -->
- <a href="https://eslint.org/" title="ESLint">
-  <img align="center" alt="ESLint" height="30" width="40"
-       src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" >&nbsp;
- </a>
-  <!-- Jest Icon -->
- <a href="https://jestjs.io/" title="Jest">
-  <img align="center"  alt="Jest" height="30" width="40"
-       src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" >&nbsp;
- </a>
-    <!-- Docker Icon -->
- <a href="https://www.docker.com/" title="docker">
-  <img align="center"  alt="docker" height="30" width="40"
-       src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg">&nbsp;
- </a>
-   <!-- Visual Studio Code Icon -->
- <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-  <img align="center"  alt="Visual Studio Code" height="30" width="40"
-       src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" >&nbsp;
- </a>
-</p>
+<!-- fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"] -->
+ <!-- currently_learning: ["Web3", "React", "Vue"] -->
 
-<!-- Meme -->
-<div align="center">
-<img alt="frequency tweet" src="https://github.com/BernardoMoschen/BernardoMoschen/assets/76796293/1f7cd7de-3700-4679-a505-794fe764cfb3"  width="50%">
+---
+
+<div style="display:flex; align-items:center; justify-content:start; justify-items: center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height='30'>
+<h3 id="habilidades" style="color: rgb(255, 76, 22); text-align: start; text-shadow: 0 0 5px #F05032; padding-left:8px">Skills</h3>
 </div>
 
-<!-- Cards Area -->
+<div style="display: flex; flex-direction: column; background: #0d0d0d; padding:20px ">
+    <div>
+        <h3>Languages</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 8px;">
+            <img src="https://img.shields.io/badge/-Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" style="box-shadow: 0 0 10px #3776AB;">
+            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="box-shadow: 0 0 10px #F7DF1E;">
+        </div>
+    </div>
+    <div>
+        <h3>Backend</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 8px;">
+            <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="React" style="box-shadow: 0 0 10px #215732;">
+            <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="React" style="box-shadow: 0 0 10px #E0234E;">   
+            <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="React" style="box-shadow: 0 0 10px #000000;">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="React" style="box-shadow: 0 0 10px #4479A1;">
+<img src="https://img.shields.io/badge/swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=black" alt="React" style="box-shadow: 0 0 10px #85ea2d;">
+        </div>
+    </div>
+     <div>
+        <h3>Frontend</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 8px;">
+            <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="React" style="box-shadow: 0 0 10px #E34F26;">
+                <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="React" style="box-shadow: 0 0 10px #1572B6;">
+            <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="box-shadow: 0 0 10px #61DAFB;">
+        </div>
+    </div>
+         <div>
+        <h3>Databases</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 8px;">
+            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="React" style="box-shadow: 0 0 10px #316192;">
+                <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="React" style="box-shadow: 0 0 10px #CC2927;">
+            <img src="https://img.shields.io/badge/MongoDB-%4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="React" style="box-shadow: 0 0 10px #4ea94b;">
+        </div>
+    </div>
+         <div>
+        <h3>Deployment & Development Tools</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 8px;">
+            <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="React" style="box-shadow: 0 0 10px #0db7ed;">
+            <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="React" style="box-shadow: 0 0 10px #E44C30;">
+            <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="React" style="box-shadow: 0 0 10px #121011;">
+        </div>
+    </div>
+</div>
+
+---
+
+<div style="display:flex; align-items:center; justify-content:start; justify-items: center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
+<h3 id="habilidades" style="color: rgb(255, 76, 22); text-align: start; text-shadow: 0 0 5px #F05032; padding-left:8px">Stats</h3>
+</div>
 <table align="center">
   <row display="flex">
     <td>
@@ -126,9 +129,3 @@
     </td>
   </row>
 </table>
-
-<!-- Commit snake 
-
-![Snake animation](https://github.com/BernardoMoschen/BernardoMoschen/blob/output/github-contribution-grid-snake.svg)
-
--->
