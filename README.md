@@ -1,15 +1,9 @@
 <!-- Hero -->
 
-<div style="display: flex; flex-direction: row; gap:2">
-<img src="https://github.com/BernardoMoschen/BernardoMoschen/raw/main/assets/bmos_glitch_hero.gif" alt="Description of image">
-</div>
-
----
+## Hello there, I'm Bernardo Moschen
 
 <!-- Contact -->
-
 ### 🌐 Contact
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardomoschen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardomoschen.dev@gmail.com)
 
