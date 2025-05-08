@@ -66,7 +66,7 @@ hobbies: ['Camping', 'Hiking', 'Reading', 'Gym']
 
 <div style="display:flex; align-items:center; justify-content:start; justify-items: center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height='30'>
-<h3 id="habilidades" style="color: rgb(255, 76, 22); text-align: start; text-shadow: 0 0 5px #F05032; padding-left:8px">Skills</h3>
+<p id="habilidades" style="color: rgb(255, 76, 22); text-align: start; text-shadow: 0 0 5px #F05032; padding-left:8px">Skills</p>
 </div>
 
 <div style="display: flex; flex-direction: column; background: #0d0d0d; padding:20px ">
