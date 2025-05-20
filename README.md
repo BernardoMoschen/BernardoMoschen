@@ -25,28 +25,34 @@ education:
     'Postgraduate in Fullstack Development',
   ]
 past_experiences:
-  - [
-      'Fullstack Developer',
-      'Fulltime',
-      'Paradise Mobile',
-      'Bermudas/remote',
-      '03/2023 - Current',
-    ]
-  - [
-      'Fullstack Developer',
-      'Fulltime',
-      'Grupo Tiradentes',
-      'Brazil',
-      '12/2022 - 03/2023',
-    ]
-  - [
-      'Fullstack Developer',
-      'Fulltime',
-      'ArcelorMittal Mines',
-      'Canada/remote',
-      '09/2021 - 12/2022',
-    ]
-  - ['Fullstack Developer', 'Intern', 'Meta IT', 'Brazil', '05/2021 - 09/2021']
+  [
+    'Fullstack Developer',
+    'Fulltime',
+    'Paradise Mobile',
+    'Bermudas/remote',
+    '03/2023 - Current',
+  ]
+  [
+    'Fullstack Developer',
+    'Fulltime',
+    'Grupo Tiradentes',
+    'Brazil',
+    '12/2022 - 03/2023',
+  ]
+  [
+    'Fullstack Developer',
+    'Fulltime',
+    'ArcelorMittal Mines',
+    'Canada/remote',
+    '09/2021 - 12/2022',
+  ]
+  [
+    'Fullstack Developer',
+    'Intern',
+    'Meta IT',
+    'Brazil',
+    '05/2021 - 09/2021'
+  ]
 currently_learning: ['Docker', 'NestJs', 'Patterns']
 will_learn: ['AWS', 'Cloud']
 hobbies: ['Camping', 'Hiking', 'Reading', 'Gym']
