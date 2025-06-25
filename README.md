@@ -26,21 +26,21 @@ education:
   ]
 past_experiences:
   [
-    'Fullstack Developer',
+    'Senior Fullstack Developer',
     'Fulltime',
     'Paradise Mobile',
     'Bermudas/remote',
     '03/2023 - Current',
   ]
   [
-    'Fullstack Developer',
+    'Mid-level Fullstack Developer',
     'Fulltime',
     'Grupo Tiradentes',
     'Brazil',
     '12/2022 - 03/2023',
   ]
   [
-    'Fullstack Developer',
+    'Mid-level Fullstack Developer',
     'Fulltime',
     'ArcelorMittal Mines',
     'Canada/remote',
